@@ -1,4 +1,4 @@
-# angular2-angular4
+# angular 2-angular 4
 Simple CRUD operation in admin panel using angular4(angular2) and nodejs.
 
 # NG CLI Version 
