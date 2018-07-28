@@ -5,21 +5,21 @@ Simple CRUD operation in admin panel using angular4 and node.js.
   This project was generated with angular-cli version 
   cmd> ng --version 
   
--@angular/cli: 1.1.3
--node: 6.11.1
--os: win32 ia32
--@angular/animations: 4.2.4
--@angular/common: 4.2.4
--@angular/compiler: 4.2.4
--@angular/core: 4.2.4
--@angular/forms: 4.2.4
--@angular/http: 4.2.4
--@angular/platform-browser: 4.2.4
--@angular/platform-browser-dynamic: 4.2.4
--@angular/router: 4.2.4
--@angular/cli: 1.1.3
--@angular/compiler-cli: 4.2.4
--@angular/language-service: 4.2.4
+- @angular/cli: 1.1.3
+- node: 6.11.1
+- os: win32 ia32
+- @angular/animations: 4.2.4
+- @angular/common: 4.2.4
+- @angular/compiler: 4.2.4
+- @angular/core: 4.2.4
+- @angular/forms: 4.2.4
+- @angular/http: 4.2.4
+- @angular/platform-browser: 4.2.4
+- @angular/platform-browser-dynamic: 4.2.4
+- @angular/router: 4.2.4
+- @angular/cli: 1.1.3
+- @angular/compiler-cli: 4.2.4
+- @angular/language-service: 4.2.4
 
 
 ### how to start angular4 server ? 
