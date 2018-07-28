@@ -1,5 +1,5 @@
-# angular 2-angular 4
-Simple CRUD operation in admin panel using angular4(angular2) and nodejs.
+# Admin Panel
+Simple CRUD operation in admin panel using angular2 and node.js.
 
 # NG CLI Version 
   This project was generated with angular-cli version 
