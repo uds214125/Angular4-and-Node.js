@@ -25,11 +25,11 @@ Simple CRUD operation in admin panel using angular4 and node.js.
 ### how to start angular4 server ? 
    Go to current project folder 
    Opern command prompt (cmd) 
-         -cmd > ng serve or
-         -cmd > ng serve -o or,
-         -cmd > ng serve --open  
-         (for a dev server Navigate to http://localhost:4200/). 
-   The app will automatically render output whenever change made in your any file of ng2 app.
+         * cmd > ng serve or
+         * cmd > ng serve -o or,
+         * cmd > ng serve --open  
+           ** (for a dev server Navigate to http://localhost:4200/). 
+   * The app will automatically render output whenever change made in your any file of ng2 app.
    
 ### for component, class, service generation I have used 
   * cmd> ng g c <componentname>   or ng generate component <componentname>
