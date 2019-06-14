@@ -1,7 +1,6 @@
 'use strict';
 var express = require('express'),
 	path = require('path'),
-	logger = require('morgan'),
 	cookieParser = require('cookie-parser'),
 	bodyParser = require('body-parser'),
 	path = require('path'),
@@ -21,7 +20,6 @@ app.set('views', path.join(__dirname , 'views'));
 app.set('view engine', 'ejs');  
 app.engine('html', require("ejs").renderFile);  
 
-app.use(logger('dev'));
 app.use(cookieParser());
 
 app.use(express.static(path.join(__dirname, 'public')));

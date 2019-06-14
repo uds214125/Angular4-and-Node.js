@@ -1,3 +1,4 @@
+'use strcit';
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { Task } from '../models/task'; // importing task model 
